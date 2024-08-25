@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/polinasklar/.gradle/caches/transforms-3/5dd1975bf5f83111314858291fd53729/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/polinasklar/.gradle/caches/transforms-3/9ddfa830b656f1c7088043fa89f32f76/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/c1e26469ddf89185fcae577aac0dc7f4/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/c523a122fd46380d8b6ccaa900ea1458/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/be62a4486238f76ede4b677fe52a44b6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/f153837bf1affcc263e785ba0af007a6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/b79bab30fb9c4a002b6fa9c539b8daae/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/12536cfc08c7f2cb61fa55f05465ece2/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/b77efe22d159062ee49b8c70dd66f842/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/305b14536a3bbaa95cb416d8f70e4cd7/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/4e705f19af97fa6e9f73e80947459112/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/638a71c3b5eab7f6373d6a476a025a7b/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/2d3f9c5dbc37b22cbc87b29be0f546d3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/312e6fa5a9769143dd22635b0f60e56e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/bcf3f17520ca272d419c0c22687c2160/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/a14311ab0be6f84cba8044bdb6d7aeb2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/e6b669675499d9fefbf546c1b7834a3b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/368a9b86e3156a245be5df08ee67234c/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/f98132ace2b8b7dc7d5a529eb8543d7b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/polinasklar/.gradle/caches/transforms-3/8d4e8d33dda353879f8b34f9ccb48702/transformed/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/e7048f8486726c288d1b03343e1ebaa5/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/a4848bb204573c46675d58cc602c5d7e/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e4d7ad28529e967bcf0395f2d7133637/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e5b2942a06ecd22a9aefb41c85a0e163/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/polinasklar/.gradle/caches/transforms-3/3b968abf8a90d68e0ad9aed12f4afa4d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/608638901bceaccb9928ca258e711c9b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/95359a95a8952645d3f270e7e4465564/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/47daea189a915767b044eddaf248333b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/1d292c609db905007213360b89b441fc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/6376c5f960c74104ee82141e99643e00/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/107d78e094a634f40f685b0f54a18526/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:4:3-64
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:4:20-62
+application
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/polinasklar/.gradle/caches/transforms-3/5dd1975bf5f83111314858291fd53729/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/polinasklar/.gradle/caches/transforms-3/5dd1975bf5f83111314858291fd53729/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/polinasklar/.gradle/caches/transforms-3/9ddfa830b656f1c7088043fa89f32f76/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/polinasklar/.gradle/caches/transforms-3/9ddfa830b656f1c7088043fa89f32f76/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/c523a122fd46380d8b6ccaa900ea1458/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/c523a122fd46380d8b6ccaa900ea1458/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/polinasklar/.gradle/caches/transforms-3/8d4e8d33dda353879f8b34f9ccb48702/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/polinasklar/.gradle/caches/transforms-3/8d4e8d33dda353879f8b34f9ccb48702/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/e7048f8486726c288d1b03343e1ebaa5/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/e7048f8486726c288d1b03343e1ebaa5/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e4d7ad28529e967bcf0395f2d7133637/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e4d7ad28529e967bcf0395f2d7133637/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/polinasklar/.gradle/caches/transforms-3/8d4e8d33dda353879f8b34f9ccb48702/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:12:9-50
+	android:networkSecurityConfig
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:6:9-69
+activity#com.android.foodorderapp.OrderSucceessActivity
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:13:19-56
+activity#com.android.foodorderapp.PlaceYourOrderActivity
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:14:9-60
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:14:19-57
+activity#com.android.foodorderapp.RestaurantMenuActivity
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:15:9-60
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:15:19-57
+activity#com.android.foodorderapp.SplashActivity
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:16:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.android.foodorderapp.MainActivity
+ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] /Users/polinasklar/.gradle/caches/transforms-3/5dd1975bf5f83111314858291fd53729/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/polinasklar/.gradle/caches/transforms-3/5dd1975bf5f83111314858291fd53729/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/polinasklar/.gradle/caches/transforms-3/9ddfa830b656f1c7088043fa89f32f76/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/polinasklar/.gradle/caches/transforms-3/9ddfa830b656f1c7088043fa89f32f76/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/c1e26469ddf89185fcae577aac0dc7f4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/c1e26469ddf89185fcae577aac0dc7f4/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/c523a122fd46380d8b6ccaa900ea1458/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/c523a122fd46380d8b6ccaa900ea1458/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/be62a4486238f76ede4b677fe52a44b6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/be62a4486238f76ede4b677fe52a44b6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/f153837bf1affcc263e785ba0af007a6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/f153837bf1affcc263e785ba0af007a6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/b79bab30fb9c4a002b6fa9c539b8daae/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/b79bab30fb9c4a002b6fa9c539b8daae/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/12536cfc08c7f2cb61fa55f05465ece2/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/12536cfc08c7f2cb61fa55f05465ece2/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/b77efe22d159062ee49b8c70dd66f842/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/b77efe22d159062ee49b8c70dd66f842/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/305b14536a3bbaa95cb416d8f70e4cd7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/305b14536a3bbaa95cb416d8f70e4cd7/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/4e705f19af97fa6e9f73e80947459112/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/4e705f19af97fa6e9f73e80947459112/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/638a71c3b5eab7f6373d6a476a025a7b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/polinasklar/.gradle/caches/transforms-3/638a71c3b5eab7f6373d6a476a025a7b/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/2d3f9c5dbc37b22cbc87b29be0f546d3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/2d3f9c5dbc37b22cbc87b29be0f546d3/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/312e6fa5a9769143dd22635b0f60e56e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/312e6fa5a9769143dd22635b0f60e56e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/bcf3f17520ca272d419c0c22687c2160/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/bcf3f17520ca272d419c0c22687c2160/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/a14311ab0be6f84cba8044bdb6d7aeb2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/a14311ab0be6f84cba8044bdb6d7aeb2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/e6b669675499d9fefbf546c1b7834a3b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/e6b669675499d9fefbf546c1b7834a3b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/368a9b86e3156a245be5df08ee67234c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/368a9b86e3156a245be5df08ee67234c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/f98132ace2b8b7dc7d5a529eb8543d7b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/f98132ace2b8b7dc7d5a529eb8543d7b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/polinasklar/.gradle/caches/transforms-3/8d4e8d33dda353879f8b34f9ccb48702/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/polinasklar/.gradle/caches/transforms-3/8d4e8d33dda353879f8b34f9ccb48702/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/e7048f8486726c288d1b03343e1ebaa5/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/polinasklar/.gradle/caches/transforms-3/e7048f8486726c288d1b03343e1ebaa5/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/a4848bb204573c46675d58cc602c5d7e/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/a4848bb204573c46675d58cc602c5d7e/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e4d7ad28529e967bcf0395f2d7133637/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e4d7ad28529e967bcf0395f2d7133637/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e5b2942a06ecd22a9aefb41c85a0e163/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/polinasklar/.gradle/caches/transforms-3/e5b2942a06ecd22a9aefb41c85a0e163/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/polinasklar/.gradle/caches/transforms-3/3b968abf8a90d68e0ad9aed12f4afa4d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/polinasklar/.gradle/caches/transforms-3/3b968abf8a90d68e0ad9aed12f4afa4d/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/608638901bceaccb9928ca258e711c9b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/608638901bceaccb9928ca258e711c9b/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/95359a95a8952645d3f270e7e4465564/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/95359a95a8952645d3f270e7e4465564/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/47daea189a915767b044eddaf248333b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/47daea189a915767b044eddaf248333b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/1d292c609db905007213360b89b441fc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/1d292c609db905007213360b89b441fc/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/6376c5f960c74104ee82141e99643e00/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/polinasklar/.gradle/caches/transforms-3/6376c5f960c74104ee82141e99643e00/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/107d78e094a634f40f685b0f54a18526/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/polinasklar/.gradle/caches/transforms-3/107d78e094a634f40f685b0f54a18526/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/src/main/AndroidManifest.xml

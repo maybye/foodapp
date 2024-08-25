@@ -1,0 +1,7 @@
+#Sat Jun 08 01:40:31 MSK 2024
+base.0=/Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/polinasklar/Desktop/Учеба/6 семестр/PMU/FoodApp/FoodOrderApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.0=classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
